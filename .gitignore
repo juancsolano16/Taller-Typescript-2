@@ -1,12 +1,14 @@
+# Archivos de compilación
+dist/
+out/
+
 # Dependencias
 node_modules/
-
-# Archivos compilados
 dist/
 
-# Archivos de entorno
-.env
-
-# Archivos del sistema
+# Archivos temporales del sistema
 .DS_Store
 Thumbs.db
+
+# Archivos de configuración locales
+.env
